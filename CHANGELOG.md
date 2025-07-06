@@ -7,4 +7,25 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-<changes>
+## [2.0.0-beta.1] - 2025-07-06
+
+### Removed
+
+- SourceModPatcher tokens in gameinfo.txt
+
+## [1.0.0] - 2024-05-31
+
+### Added
+
+- Initial release in SourceModPatcher
+
+### Fixed
+
+- Missing widescreen background materials
+- Remove duplicate entry in credits
+- Localization strings in credits
+- Missing topoffset in HudCloseCaption
+- Missing closed captions in closecaption_russian.txt
+- Missing closed captions in closecaption_schinese.txt
+- Missing closed captions in closecaption_tchinese.txt
+- Remove unnecessary new lines in closed captions
